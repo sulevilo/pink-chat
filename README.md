@@ -1,4 +1,4 @@
-PINKCHAT
+# PINKCHAT
 
 chat Usando Socket IO
 Cada pestaña nueva es un nuevo chat que se actualiza en tiempo real ante cualquier evento nuevo
@@ -27,7 +27,7 @@ Para probar este proyecto sin necesidad de configuraciones complicadas, puedes u
 
 ## Captura de Pantalla
 
-<img src="/assets/image.png" width="300px">
+![/assets/image.png](https://github.com/sulevilo/pink-chat/blob/main/assets/image.PNG)
 
 ---
 
