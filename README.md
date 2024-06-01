@@ -19,6 +19,7 @@ Para probar este proyecto sin necesidad de configuraciones complicadas, puedes u
     - Una vez que el Codespace esté listo, abre una terminal en el Codespace.
     - Ejecuta el siguiente comando para iniciar el proyecto:
       ```bash
+      chmod +x setup.sh
       ./setup.sh
       ```
 
