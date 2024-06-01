@@ -27,7 +27,7 @@ Para probar este proyecto sin necesidad de configuraciones complicadas, puedes u
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](assets/image.png)
+<img src="assets/image.png" width="300px">
 
 ---
 
